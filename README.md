@@ -1,12 +1,4 @@
-# E01: ToDo
-
-Watch the video [here](https://www.youtube.com/watch?v=0Y6aHZTJFNQ)
-
-## Features
-- Add Task
-- Remove Task
-- Mark task as done/not done
-
+## Todo list with Laravel Livewire
 ## Installation
 
 - Clone or download the code
@@ -15,4 +7,4 @@ Watch the video [here](https://www.youtube.com/watch?v=0Y6aHZTJFNQ)
 - Run `php artisan serve`
 - Open you browser and go to http://localhost:8000
 
-# todo
+# I hope you all the best (^_^)
